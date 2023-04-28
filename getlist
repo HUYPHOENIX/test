@@ -2,6 +2,7 @@
   {
     "productId": 1,
     "name": "Iphone 13",
+    "image": "Model1.png",
     "price": "24.990.000đ",
     "storage": "64GB",
     "brand": "Apple"
@@ -9,12 +10,14 @@
   {
     "productId": 2,
     "name": "Iphone 11",
+    "image": "Model2.png",
     "price": "14.990.000đ",
     "storage": "64GB",
     "brand": "Apple"
   },
   {
     "productId": 3,
+    "image": "Model3png",
     "name": "Samsung Galaxy Z Fold4",
     "price": "40.990.000đ",
     "storage": "128GB",
@@ -23,6 +26,7 @@
   {
     "productId": 4,
     "name": "Samsung Galaxy S22 Ultra",
+    "image": "Model4.png",
     "price": "24.690.000đ",
     "storage": "128GB",
     "brand": "Samsung"
